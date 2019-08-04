@@ -8,7 +8,7 @@ Live version [here](https://victorribeiro.com/monteCarlo)
 
 ## About
 
-Draw an image, run the monte carlo method to calculate it's area. Increase or decrese the number of samples used in the simulation. I have written a similar code that runs the simulation several times and get the mean of them all. I like this one better.
+Draw an image, run the monte carlo method to calculate it's area. Increase or decrese the number of samples used in the simulation. I have written a similar code that runs the simulation several times and get the mean of them all. I like this one better. The canvas is 500x500 pixels. So, if you color it all and click solve, you should get a result of 250000 pixels.
 
 ## How to use it
 
