@@ -8,7 +8,7 @@ Live version [here](https://victorribeiro.com/monteCarlo)
 
 ## About
 
-Draw an image, run the monte carlo method to calculate it's area. Increase or decrese the number of samples used in the simulation.
+Draw an image, run the monte carlo method to calculate it's area. Increase or decrese the number of samples used in the simulation. I have written a similar code that runs the simulation several times and get the mean of them all. I like this one better.
 
 ## How to use it
 
