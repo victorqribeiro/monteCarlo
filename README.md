@@ -8,7 +8,7 @@ Live version [here](https://victorribeiro.com/monteCarlo)
 
 ## About
 
-I made this experiment to test how long it would take to train my neural network with MNIST and how accurate it would be at the end. Turns out I have a long way to go.
+Draw an image, run the monte carlo method to calculate it's area. Increase or decrese the number of samples used in the simulation.
 
 ## How to use it
 
