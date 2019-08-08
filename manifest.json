@@ -1,7 +1,7 @@
 {
-  "name": "Digit Recognition",
-  "short_name": "DigitRecognition",
-  "description": "A neural network trained to recognize digits",
+  "name": "Monte Calo",
+  "short_name": "MonteCarlos",
+  "description": "Finding area using Monte Carlo Method",
   "start_url": "index.html",
   "display": "standalone",
   "orientation": "portrait",
